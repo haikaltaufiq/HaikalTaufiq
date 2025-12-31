@@ -2,7 +2,7 @@
   
 # 👨‍💻 Haikal Taufiq
 
-### Full Stack Developer | IoT Enthusiast | Creative Problem Solver
+### Full Stack Developer | Creative Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://haikaltaufiq.github.io/portofolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
@@ -19,7 +19,7 @@
 const haikal = {
   location: "Indonesia 🇮🇩",
   role: "Full Stack Developer",
-  interests: ["Web Development", "IoT", "Mobile Development", "Game Development"],
+  interests: ["Web Development", "Mobile Development", "Game Development"],
   currentlyLearning: ["Next.js", "Microservices", "AI Integration"],
   funFact: "I turn coffee into code ☕"
 };
@@ -28,7 +28,7 @@ const haikal = {
 ### 💼 Tech Stack
 
 <details open>
-<summary><b>Frontend Development</b></summary>
+<summary><b>🎨 Frontend Development</b></summary>
 <br>
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -42,11 +42,9 @@ const haikal = {
 </details>
 
 <details open>
-<summary><b>Backend Development</b></summary>
+<summary><b>⚙️ Backend Development</b></summary>
 <br>
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,7 +52,7 @@ const haikal = {
 </details>
 
 <details open>
-<summary><b>Mobile Development</b></summary>
+<summary><b>📱 Mobile Development</b></summary>
 <br>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -63,18 +61,16 @@ const haikal = {
 </details>
 
 <details open>
-<summary><b>Desktop & Game Development</b></summary>
+<summary><b>🎮 Game Development</b></summary>
 <br>
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows%20App-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>Database & Cloud</b></summary>
+<summary><b>💾 Database & Cloud</b></summary>
 <br>
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -83,11 +79,10 @@ const haikal = {
 </details>
 
 <details open>
-<summary><b>IoT & Hardware</b></summary>
+<summary><b>🔌 IoT & Hardware</b></summary>
 <br>
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
 </details>

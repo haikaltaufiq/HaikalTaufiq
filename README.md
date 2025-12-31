@@ -19,7 +19,7 @@
 const haikal = {
   location: "Indonesia 🇮🇩",
   role: "Full Stack Developer",
-  interests: ["Web Development", "IoT", "Cloud Computing"],
+  interests: ["Web Development", "IoT", "Mobile Development"],
   currentlyLearning: ["Next.js", "Microservices", "AI Integration"],
   funFact: "I turn coffee into code ☕"
 };
@@ -47,8 +47,18 @@ const haikal = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Mobile Development</b></summary>
+<br>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 </details>
 
@@ -57,8 +67,6 @@ const haikal = {
 <br>
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
 </details>
@@ -75,70 +83,10 @@ const haikal = {
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haikaltaufiq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikaltaufiq&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-### 🔥 Contribution Streak
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haikaltaufiq&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=haikaltaufiq&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 📈 Activity Graph
 
 <div align="center">
   
 [![Haikal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haikaltaufiq&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🎯 Current Focus
-
-- 🔭 Building scalable web applications with Next.js and TypeScript
-- 🌱 Exploring IoT integration with cloud platforms
-- 👯 Looking to collaborate on innovative web and IoT projects
-- 💬 Ask me about React, Next.js, or IoT development
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=haikaltaufiq&color=blueviolet&style=flat-square)
-
----
-
-⭐️ From [haikaltaufiq](https://github.com/haikaltaufiq)
 
 </div>

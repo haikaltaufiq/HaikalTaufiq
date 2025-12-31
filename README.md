@@ -1,6 +1,6 @@
 <div align="center">
 
-# Haikal Taufiq
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&letterSpacing=-2px&pause=1000&color=31E1F7&center=true&vCenter=true&random=true&width=446&height=70&lines=Haikal+Taufiq)](https://git.io/typing-svg)
 
 **Software Developer**
 

@@ -14,9 +14,9 @@
 
 ```typescript
 const haikal = {
-  location: "Indonesia",
-  role: "Software Developer",
-  interests: ["Web", "Mobile", "Game Dev", "IoT"],
+  location: "Batam, Indonesia",
+  role: "Software Engineer",
+  interests: ["Web", "Mobile", "Game Dev", "IoT", "AI"],
 };
 ```
 

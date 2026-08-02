@@ -4,8 +4,6 @@
 
 **Software Developer**
 
-[Portfolio](https://haikaltaufiq.pages.dev) • [LinkedIn](https://linkedin.com/in/m-taufiq-karim-haikal-3050b1284/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzkqpJ2dSSTu0sUg%2Bqd1gsw%3D%3D) • [Email](mailto:haikaltaufiq4.com)
-
 </div>
 
 ---
